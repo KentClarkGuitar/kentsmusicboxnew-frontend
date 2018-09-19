@@ -2,9 +2,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background-color: green;
-  background-image: linear-gradient(red, yellow, green); /* Standard syntax (must be last) */
-  color:yellow;
+  background-image: linear-gradient(green, blue); /* Standard syntax (must be last) */
+  color: yellow;
 }
 
 h1 {
